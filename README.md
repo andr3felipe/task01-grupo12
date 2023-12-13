@@ -6,7 +6,7 @@ Nós somos o grupo 12 da primeira task do Vem Ser DBC!
 
 Pablo Augusto
 <br/>
-José Santos
+Welton Santos
 <br/>
 Clara Maestri
 <br/>
@@ -20,7 +20,7 @@ Ermeson Ribeiro
 
 Pablo Augusto - feat-dias-da-semana
 <br/>
-José Santos -
+José Santos - feat-add-name
 <br/>
 Clara Maestri - feat-meses-dias
 <br/>
