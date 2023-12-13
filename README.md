@@ -28,4 +28,4 @@ Camila Gonçalves - feat-paragrafo-texto
 <br/>
 André Sousa - feat-add-h1
 <br/>
-Ermeson Ribeiro -
+Ermeson Ribeiro - feat-ano-tempo
