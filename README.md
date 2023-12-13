@@ -24,7 +24,7 @@ José Santos -
 <br/>
 Clara Maestri - feat-meses-dias
 <br/>
-Camila Gonçalves -
+Camila Gonçalves - feat-paragrafo-texto
 <br/>
 André Sousa -
 <br/>
