@@ -26,6 +26,6 @@ Clara Maestri - feat-meses-dias
 <br/>
 Camila Gonçalves - feat-paragrafo-texto
 <br/>
-André Sousa -
+André Sousa - feat-add-h1
 <br/>
 Ermeson Ribeiro -
