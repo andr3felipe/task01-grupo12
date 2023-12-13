@@ -18,7 +18,7 @@ Ermeson Ribeiro
 
 # Nomes das branches de cada membro
 
-Pablo Augusto -
+Pablo Augusto - feat-dias-da-semana
 <br/>
 José Santos -
 <br/>
