@@ -18,14 +18,14 @@ Ermeson Ribeiro
 
 # Nomes das branches de cada membro
 
-Pablo Augusto -
+Pablo Augusto - feat-dias-da-semana
 <br/>
 José Santos - feat-add-name
 <br/>
 Clara Maestri - feat-meses-dias
 <br/>
-Camila Gonçalves -
+Camila Gonçalves - feat-paragrafo-texto
 <br/>
-André Sousa -
+André Sousa - feat-add-h1
 <br/>
 Ermeson Ribeiro -
